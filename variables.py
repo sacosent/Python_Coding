@@ -26,3 +26,9 @@ print('Married: ', is_married)
 print('Skills: ', skills)
 print('Person information: ', person_info)
 
+# Types
+
+print(type([1, 2, 3, 4]))     # list
+print(type({'name':'Asabeneh','age':250, 'is_married':250}))    # dict
+print(type((1,2)))                                              # tuple
+print(type(zip([1,2],[3,4])))                                   # set
