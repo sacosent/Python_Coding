@@ -11,3 +11,5 @@ print(randint(5, 20)) # it returns a random integer number between [5, 20] inclu
 
 # Aqui se hacen ajustes de último momento antes del Release 1.0
 print(mymodule.user_id_gen_by_user())
+
+#Fin de código
